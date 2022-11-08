@@ -5,3 +5,5 @@ SOURCES += \
 
 HEADERS += \
     connection.h
+
+TARGET = boot
